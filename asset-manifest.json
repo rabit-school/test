@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1529eb07.css",
+    "main.js": "/static/js/main.eb234ff6.js",
+    "static/js/453.6fc87a4f.chunk.js": "/static/js/453.6fc87a4f.chunk.js",
+    "static/media/dice-playing.gif": "/static/media/dice-playing.a79fc8b93febddb699ac.gif",
+    "static/media/new_logo1.png": "/static/media/new_logo1.c83922808951972644b1.png",
+    "static/media/dice.avif": "/static/media/dice.f67acc54420e70b82e36.avif",
+    "static/media/mines.avif": "/static/media/mines.9aa8c61d84b2aae76991.avif",
+    "static/media/cube-white.svg": "/static/media/cube-white.15639a083a3c7ff69bac466206b49d6d.svg",
+    "static/media/casino.svg": "/static/media/casino.09343297fa6c721092de9fbc453fd9e2.svg",
+    "static/media/infinite.svg": "/static/media/infinite.05b637744b99ee7e3156dc484388c248.svg",
+    "static/media/chat.svg": "/static/media/chat.b3bac5cba8b086445fa1d00919b97aa6.svg",
+    "static/media/setting.svg": "/static/media/setting.8dda970c045e3fe6edc89da911d600a8.svg",
+    "static/media/cap.svg": "/static/media/cap.71fa5808e0cac42f8ff879fc6c04c4a6.svg",
+    "static/media/cup.svg": "/static/media/cup.cba4b67f25216150d68b82fdbca761e9.svg",
+    "static/media/browse.svg": "/static/media/browse.35c5f0e3b1cad9d08a0fab0012971736.svg",
+    "index.html": "/index.html",
+    "static/media/percent.svg": "/static/media/percent.498f24baabe15f3442250d3ee2399be4.svg",
+    "static/media/bitcoin.svg": "/static/media/bitcoin.c686813e2825b3ebaf2af993f881017d.svg",
+    "static/media/risk.svg": "/static/media/risk.b538f741ca6814f8fd13bb369b46746c.svg",
+    "static/media/games.svg": "/static/media/games.cd738ca1f3f3d22b96797b8287526d47.svg",
+    "static/media/refresh.svg": "/static/media/refresh.987d277cdd38752f3cc8a049dc0a6358.svg",
+    "static/media/status.svg": "/static/media/status.1b62cb7697305ffb93862317baafee2f.svg",
+    "static/media/x.svg": "/static/media/x.9defc0a3c245bbe53ced020f0ee0eb0e.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.e24a7a952a85af58393aa32f367e84e6.svg",
+    "static/media/thread.svg": "/static/media/thread.ea955f02e82e43cabfabb3232fcc8495.svg",
+    "main.1529eb07.css.map": "/static/css/main.1529eb07.css.map",
+    "main.eb234ff6.js.map": "/static/js/main.eb234ff6.js.map",
+    "453.6fc87a4f.chunk.js.map": "/static/js/453.6fc87a4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1529eb07.css",
+    "static/js/main.eb234ff6.js"
+  ]
+}
